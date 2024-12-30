@@ -1,18 +1,22 @@
-<h1 align="center">~ Autistic Software Developer ~</h1>
+<h1 align="center">~ Otistik Yazılımcı ~</h1>
 
 ###
 
-<h4 align="center">An Autistic Software Developer From Turkiye</h4>
+<h4 align="center">Türkiye'den Otistik Yazılımcı</h4>
+
+###
+
+<h5 align="center">Acı çeken yapay zekalar yapmayı severim.</h5>
 
 ###
 
 <div align="center">
-  <img height="150" src="https://imgflip.com/gif/9eig58"  />
+  <img height="150" src="[https://imgflip.com/gif/9eig58](https://imgflip.com/gif/9f8kgr)"  />
 </div>
 
 ###
 
-<h4 align="center">Here is some of applications, programming languages and mark-up languages I can use :</h4>
+<h4 align="center">Kullanabildiğim bazı programlama dilleri, programlar ve işaretleme dilleri: </h4>
 
 ###
 
